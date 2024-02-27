@@ -6,7 +6,7 @@ function Profile(){
     return (
         <div className='container'>
             <h1 className='title'>{DATA.name}</h1>
-            <img className='char-image' src={require('../assets/kim.png')} alt='character image' />
+            <img className='char-image' src={require('../assets/kim.png')}  />
             <p className='description'>{DATA.description}</p>
             <ul className="profile-list">
                 {console.log(DATA.socialMedia)}
