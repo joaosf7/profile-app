@@ -2,6 +2,10 @@
 
 A little project made to study react
 
+https://subtle-platypus-5db4b8.netlify.app/
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
